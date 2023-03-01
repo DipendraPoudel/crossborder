@@ -1,5 +1,5 @@
 {
-  "name": "remittance-api-client",
+  "name": "crossborder",
   "version": "1.0.0",
   "description": "MasterCard Cross-Border Services enables banks in their capacity as Originating Institutions to send cross-border payments for various payment types including person-to-person payments (P2P), person-to-business payments (P2B), business-to-person disbursements (B2P), business-to-business payments (B2B), and government-to-person disbursement (G2P). Mastercard Cross-Border Services supports a variety of payout options, including bank accounts, mobile money accounts, consumer cards, and retail cash pick-up.",
   "license": "Unlicense",
